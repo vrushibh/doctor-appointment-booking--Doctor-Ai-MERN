@@ -37,6 +37,15 @@ The **Doctor’s Appointment Booking System** is an advanced, full-stack web app
 🔹 **AI Chatbot**: AI-powered chat for patient interaction  
 
 ---
+🤖 AI-Powered Chat System for Doctor’s Appointment Booking System
+Purpose:
+The AI chat will provide guidance for non-urgent medical concerns, such as:
+🔹Symptom explanations
+🔹Medication information
+🔹Pre-appointment queries
+🔹Basic health tips
+
+---
 
 ## ⚙️ Installation & Setup
 
@@ -68,7 +77,7 @@ CLOUDINARY_API_KEY=your_cloudinary_api_key
 
 4️⃣ **Run the Backend Server**:
 ```bash
-npm start
+npm run server 
 ```
 
 5️⃣ **Run the Frontend & Admin Panel**:
@@ -78,16 +87,6 @@ npm run dev
 
 6️⃣ **Access the Application**:
 🌐 Open your browser and visit `http://localhost:5000`
-
----
-
-## 📌 Agile Methodology
-This project follows Agile principles, including:
-✅ **Project Charter** – Defines objectives, stakeholders, and scope.  
-✅ **Roadmap** – Timeline and milestone planning.  
-✅ **User Stories** – Focused on appointment booking, payments, and AI chat.  
-✅ **Sprint Backlog** – Efficient development cycle management.  
-✅ **Testing Plan** – Ensures security, performance, and functionality.  
 
 ---
 
@@ -101,6 +100,7 @@ This project follows Agile principles, including:
 
 ## 📧 Contact Us
 For queries or feedback, reach out to:
+
 📩 **Vrushibh**: rishibh.bhalodiya@gmail.com  
 📩 **Dhruvi**: dhruvikalariya2002@gmail.com  
 
