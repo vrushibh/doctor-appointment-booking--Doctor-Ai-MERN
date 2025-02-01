@@ -37,8 +37,9 @@ The **Doctor’s Appointment Booking System** is an advanced, full-stack web app
 🔹 **AI Chatbot**: AI-powered chat for patient interaction  
 
 ---
-🤖 AI-Powered Chat System for Doctor’s Appointment Booking System
+## 🤖 AI-Powered Chat System for Doctor’s Appointment Booking System
 Purpose:
+
 The AI chat will provide guidance for non-urgent medical concerns, such as:
 
 
