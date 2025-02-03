@@ -51,7 +51,7 @@ const AskAI = () => {
 
     try {
       const response = await axios({
-        url: `---------------your API key here-----------------`,
+        url: `---------------your API key here---------------------`,
         method: "post",
         data: {
           contents: [{ parts: [{ text: question }] }],
